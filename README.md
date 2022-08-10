@@ -1,1 +1,1 @@
-# 1CCO-2sem
+# CCO-2sem
