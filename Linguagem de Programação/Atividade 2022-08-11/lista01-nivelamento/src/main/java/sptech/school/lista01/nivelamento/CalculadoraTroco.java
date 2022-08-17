@@ -33,7 +33,7 @@ public class CalculadoraTroco {
             System.out.println("O valor pago é insuficiente! Tente novamente");
         } else {
         
-            troco = total - pago;
+            troco = pago - total;
             
             frase = String.format("Seu troco será de R$%.2f", troco);
             
